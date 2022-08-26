@@ -1,5 +1,5 @@
 [![demo](https://img.shields.io/badge/view%20demo-youtube-orange.svg?style=for-the-badge&logo=appveyor)](https://www.youtube.com/watch?v=GzWeRfytGpE) 
-# :sparkles: One Piece: Hide That Spoiler - Chrome Extension <img src="icon-stark.png" alt="🐺" width="64"/>
+# :sparkles: One Piece: Hide That Spoiler - Chrome Extension <img src="Luffys-flag-icon.png" width="64"/>
 
 This extension will save you from reading any One Piece Spoilers as well as visual images. <br/>
 
@@ -27,7 +27,7 @@ I am also not an expert with Google Chrome Extensions, I am just looking to play
 - Go to `chrome://extensions`
 - Click on `Load Unpacked` which you can see in the top left side.
 - Select the path where you cloned/downloaded this project.
-- An icon <img src="icon-stark.png" alt="🐺" width="64"/> should appear besides your Chrome Search bar.
+- An icon <img src="Luffys-flag-icon.png"  width="64"/> should appear besides your Chrome Search bar.
 - That's all :D Try opening any [Example Spoiler](https://www.google.com/search?ei=ubSxXMO5HY7Y0wKQ8J-ICQ&q=game+of+thrones+spoilers+list&oq=game+of+thrones+spoilers+list&gs_l=psy-ab.3...1044.1447..1643...0.0..0.175.802.0j5......0....1..gws-wiz.dqbPZYkKiHY) page to enjoy the blocking power.
 
 # Why this Chrome Extension exists?
