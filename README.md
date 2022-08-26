@@ -8,6 +8,7 @@ The original extension is developed by **Rachit**, a Software Engineer who is ma
 > ## Never Under Estimate the power of a Frustrated Software Developer
 
 "I am not an expert with Google Chrome Development and this is my first extension made ever." - Rachit
+
 I am also not an expert with Google Chrome Extensions, I am just looking to play around with some useful looking code.
 
 <img src="how-it-works.png" alt="drawing" width="450"/> 
