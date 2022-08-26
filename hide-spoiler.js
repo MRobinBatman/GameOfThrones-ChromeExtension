@@ -1,4 +1,4 @@
-kw = ['GOT', 'game of thrones', 'got spoiler', 'GoT', 'GOT Spoiler', 'Game of Thrones', 'GAME OF THRONES', 'death', 'DEAD', 'Dead', 'Died', 'DEATH', 'Death', 'DIED']
+kw = ['One Piece', 'devil fruit', 'df', 'rare', 'suprise', 'spoiler', 'new chapter', 'new', 'one piece', 'ONE PIECE', 'Luffy','Shanks', '', 'death', 'DEAD', 'Dead', 'Died', 'DEATH', 'Death', 'DIED']
 tags = "SPANEMBIULOLI";
 total = 0;
 
